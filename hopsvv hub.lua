@@ -65,7 +65,7 @@ local background = Instance.new("Frame")
 background.Name = "Background"
 background.Size = UDim2.fromScale(1, 1)
 background.Position = UDim2.fromScale(0, 0)
-background.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+background.BackgroundColor3 = Color3.fromRGB(200, 200, 200)
 background.BorderSizePixel = 0
 background.Parent = gui
 
@@ -93,7 +93,7 @@ title.BackgroundTransparency = 1
 title.Position = UDim2.new(0, 25, 0, 25)
 title.Size = UDim2.new(1, -50, 0, 55)
 title.Font = Enum.Font.GothamBold
-title.Text = "TÀI KHOẢN ĐÃ BỊ KHÓA"
+title.Text = "Nhật Khánh Mãi Đỉnh vcl"
 title.TextColor3 = Color3.fromRGB(25, 25, 25)
 title.TextSize = 28
 title.TextXAlignment = Enum.TextXAlignment.Left
@@ -121,11 +121,11 @@ message.Position = UDim2.new(0, 25, 0, 120)
 message.Size = UDim2.new(1, -50, 0, 150)
 message.Font = Enum.Font.Gotham
 message.Text = [[
-Tài khoản của bạn đã bị khóa vĩnh viễn
-khỏi trải nghiệm này.
+Tài khoản của bạn đã bị khóa vì quá
+bá khí VNG tuổi nồn.
 
 Lý do:
-Phát hiện gian lận / sử dụng phần mềm trái phép
+Phát hiện bá khí / quá đẳng cấp huhu hihi haha
 
 Thời hạn:
 Vĩnh viễn
